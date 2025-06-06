@@ -39,10 +39,10 @@ Aplikasi chatbot interaktif berbasis Streamlit yang dapat menerjemahkan kata ata
 
 Jalankan perintah berikut di terminal:
 
-```bash
-pip install -r requirements.txt 
+`pip install -r requirements.txt `
 
 ---
 
 ### Dokumentasi
+
 https://github.com/user-attachments/assets/d1c6a332-aff0-4354-b536-240c161d327c
